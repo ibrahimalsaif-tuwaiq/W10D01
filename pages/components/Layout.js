@@ -1,5 +1,12 @@
-const Layout = () => {
-  return <div>Layout</div>;
+import NavBar from "./NavBar";
+
+const Layout = ({ children }) => {
+  return (
+    <>
+      <NavBar />
+      {children}
+    </>
+  );
 };
 
 export default Layout;
