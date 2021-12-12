@@ -1,6 +1,6 @@
 import axios from "axios";
 import Head from "next/head";
-import Link from "next/Link";
+import Link from 'next/link'
 import styles from "../../styles/posts.module.css";
 
 export async function getStaticProps() {
