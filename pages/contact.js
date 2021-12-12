@@ -9,7 +9,7 @@ const Contact = () => {
         <meta name="description" content="contact page" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div>Contact</div>
+      <h1 className={styles.title}>Contact</h1>
     </div>
   );
 }

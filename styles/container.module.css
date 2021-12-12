@@ -1,6 +1,11 @@
 .container {
-  height: calc(100vh - 3rem);
+  height: calc(100vh - 5rem);
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.title {
+  font-size: 300%;
+  font-weight: bold;
 }

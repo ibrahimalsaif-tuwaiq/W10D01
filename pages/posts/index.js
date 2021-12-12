@@ -1,5 +1,5 @@
 import Head from "next/head";
-import styles from "../styles/container.module.css";
+import styles from "../../styles/container.module.css";
 
 const Posts = () => {
   return (

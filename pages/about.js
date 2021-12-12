@@ -9,7 +9,7 @@ const About = () => {
         <meta name="description" content="about page" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div>About</div>
+      <h1 className={styles.title}>About</h1>
     </div>
   );
 }
