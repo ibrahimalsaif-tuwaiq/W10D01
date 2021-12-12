@@ -1,5 +1,7 @@
 # Next.js Posts
 
+vercel: https://w10-d01-fma02r02w-ibrahimalsaif-tuwaiq.vercel.app/
+
 ## User Stories
 
 - **Signup:** As an anon I can sign up in the platform so that I can start using the website
